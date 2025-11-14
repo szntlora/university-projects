@@ -10,12 +10,6 @@ The project includes:
 - Calculations and feature analysis
 - Notebook files and raw data
 
-Main files:
-- data_3.csv
-- data_3.txt
-- szantolora_data_3.ipynb
-- Checkpoint notebook
-
 2. Power BI Project – Global Music Streaming Insights
 
 An interactive Power BI dashboard analyzing global music streaming listener preferences.
@@ -25,16 +19,7 @@ The project includes:
 - Visualizations of listening habits and trends
 - A full interactive report file (.pbix)
 
-Main files:
-- Global_Music_Streaming_Listener_Preferences.csv
-- Global_Music_Streaming_Listener_Preferences_C08KB9_SZLORA.pbix
--apple_music_dataset.csv
-- PowerPoint summary
-
 3. SAS Enterprise Guide Project
 
 A SAS EG (.egp) workflow for data preparation, transformation, and exploratory analysis.
 Includes structured, step-based processing and automation features typical of SAS environments.
-
-Main files:
-- FINAL MUSIC PROJECT.egp
